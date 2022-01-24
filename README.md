@@ -1,2 +1,2 @@
-# Linguagem-C
-Programa para cadastrar projetos
+# Projeto em linguagem C
+Projeto proposto pela faculdade, objetivo é cadastrar projetos e mostrar o seu status...
